@@ -697,6 +697,16 @@
 (^|\.)ssl-youtube\.2cnt\.net$
 (^|\.)youtube\.112\.2o7\.net$
 (^|\.)youtube\.2cnt\.net$
+(^|\.)doubleclick\.net$
+(^|\.)flashtalking\.com$domain=youtube\.com$
+(^|\.)googleadservices\.com$
+(^|\.)googlesyndication\.com$
+(^|\.)s0.2mdn\.net$
+(^|\.)pagead$domain=youtube\.google\.com$
+(^|\.)stats\.api\.youtube\.com$
+(^|\.)pagead\.youtube\.com$
+(^|\.)ptracking\.youtube\.com$
+(^|\.)masthead-ad\.youtube\.com$
 
 # Others ads in Video apps
 (^|\.)(acsystem|ads|afp)\.wasu\.tv$
