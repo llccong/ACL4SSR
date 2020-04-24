@@ -64,6 +64,9 @@
 (^|\.)ads\d{0,3}\..*$
 (^|\.)tracking\..*$
 (^|\.)masthead-ad\..*$
+(^|\.)ad-container\..*$
+(^|\.)video-ads\..*$
+(^|\.)ytp-ad-progress-list\..*$
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
